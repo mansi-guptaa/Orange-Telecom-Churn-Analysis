@@ -7,8 +7,11 @@ In this project, I performed data wrangling and analysis on a dataset sourced fr
 The dataset consists of several columns, including:
 - Company Name
 - Revenue
-- Category
-- Other relevant columns
+- Categories
+- Rank
+- Market Cap
+- Share Price
+- Country
 
 ## Data Wrangling Process
 1. **Data Acquisition**: I obtained the dataset from Kaggle, ensuring it contained the necessary information for analysis.
@@ -39,6 +42,6 @@ Data wrangling is a crucial step in the data analysis process as it ensures that
 - **README.md**: Overview of the project and instructions for replicating the analysis.
 
 ## References
-- Kaggle: [Link to Dataset](https://www.kaggle.com/dataset_link)
+- Kaggle: [Link to Dataset](https://www.kaggle.com/datasets/shiivvvaam/revenue-of-top-companies-in-india)
 
 Feel free to explore the repository and provide feedback or suggestions for improvement. Thank you for your interest in this project!
