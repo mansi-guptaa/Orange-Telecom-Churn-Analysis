@@ -1,5 +1,10 @@
 # Telecommunication Customer Churn Analysis
 
+![image](https://github.com/user-attachments/assets/8da963c6-3d63-46c5-a46d-27f642fb9375)
+![Screenshot (202)](https://github.com/user-attachments/assets/590df928-45bf-4e11-8a12-c326466924b7)
+
+
+
 ## Introduction
 
 This project focuses on analyzing customer churn in a telecommunication company using the provided dataset. Customer churn, or the rate at which customers stop doing business with a company, is a critical metric for telecommunication companies as it directly impacts revenue and profitability. By understanding the factors influencing churn, companies can implement targeted strategies to improve customer retention and satisfaction.
