@@ -71,7 +71,7 @@ The analysis provides valuable insights into customer churn behavior in the tele
 - **Reports**: Contains reports, visualizations, and findings from the analysis.
 - **README.md**: Overview of the project and instructions for replicating the analysis.
 
-## References
+## Requirements
 
-- [Telecommunication Customer Churn Dataset](https://raw.githubusercontent.com/Mansi1911999/Data-Science-Projects/main/data/TelecomChurn.csv)
-- Python Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+- Python 3.x
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `joblib`, etc.
